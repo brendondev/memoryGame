@@ -7,7 +7,7 @@
 body {
   height: 100vh;
   display: flex;
-  background:linear-gradient(rgb(9 39 54), rgba(0, 0, 0, 0.7)), url(/img/wlpp.jpg);
+  background:linear-gradient(rgb(9 39 54), rgba(0, 0, 0, 0.7)), url(../img/wlpp.jpg);
   background-size: 100%;
 }
 
